@@ -4,9 +4,6 @@
 **Project Status:** ✅ Completed
 **Live App:** [Live Dashboard (Hugging Face Spaces)](https://huggingface.co/spaces/pmistryds/Airline-Sentiment-Dashboard)
 
---
-![Dashboard Preview](assets/architecture_diagram.png)
-
 ## 📌 Tagline
 *"Transform raw Twitter sentiment into actionable airline insights through interactive visual analytics"*
 
