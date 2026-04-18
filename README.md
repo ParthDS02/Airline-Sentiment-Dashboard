@@ -3,6 +3,8 @@
 **Domain:** Natural Language Processing (NLP) | Data Visualization  
 **Project Status:** ✅ Completed
 **Live App:** [Live Dashboard (Hugging Face Spaces)](https://huggingface.co/spaces/pmistryds/Airline-Sentiment-Dashboard)
+
+--
 ![Dashboard Preview](assets/architecture_diagram.png)
 
 ## 📌 Tagline
